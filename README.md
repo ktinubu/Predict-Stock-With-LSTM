@@ -1,6 +1,6 @@
 # Time Series Analysis With Keras
 
-The LSTM in an incredible ML archetecture that allows a neural net to retain 'memory' In this project I use a historic S&P 500 data to train an LSTM to predict the future movements of the time series. 
+The LSTM in an incredible ML archetecture that allows a neural net to retain 'memory'. In this project I use a historic S&P 500 data to train an LSTM to predict the future movements of the time series. 
 
 
 #### Next Steps
