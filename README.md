@@ -7,7 +7,7 @@ The LSTM in an incredible ML archetecture that allows a neural net to retain 'me
 The next step is to clean the all the csv files and then test my new network against the one built by [Jakob Aungiers](https://github.com/jaungiers). 
 
 #### Credits
-This project builds on the LSTM built a youtube tutorial by [Siraj Raval](https://github.com/llSourcell) and code by [Jakob Aungiers](https://github.com/jaungiers) who demonstrated how to create a model with one feature. I build on this by pre-processing more historical data and increasing the number of features from one to five.
+This project builds on the on a youtube tutorial by [Siraj Raval](https://github.com/llSourcell) and some helper code by [Jakob Aungiers](https://github.com/jaungiers) who demonstrated how to create a model with one feature. I build on this by pre-processing more historical data and increasing the number of features from one to five.
 
 
 
