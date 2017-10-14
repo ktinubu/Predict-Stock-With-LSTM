@@ -2,7 +2,7 @@
 
 # Time Series Analysis With Keras
 
-The LSTM is an incredible ML archetecture that is renowned for it's ability to learn long term dependences, amking it extremely effective with time-series data. In this project I use historic S&P 500 stock data to train an LSTM to predict the future closing price of the stock for a given time.
+The LSTM is an incredible ML architecture that is renowned for it's ability to learn long term dependences, making it extremely effective with time-series data. In this project I use historic S&P 500 stock data to train an LSTM to predict the future closing price of the stock for a given time.
 
 
 #### Next Steps
